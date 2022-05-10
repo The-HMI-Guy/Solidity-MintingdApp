@@ -24,8 +24,11 @@ This project was built from the mentorship by Firebug509.
 
 Project is created with:
 
-- Solidity Version: TBD
-- Coming soon!
+- Solidity Version: 0.8.0
+- Truffle Version: 1.5.1
+- Ganache-CLI Version: 6.12.2
+- Mocha Version: 9.1.2
+- Web3 Version: 1.6.0
 
 ## Setup
 
