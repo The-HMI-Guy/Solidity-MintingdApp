@@ -30,10 +30,6 @@ Project is created with:
 - Mocha Version: 9.1.2
 - Web3 Version: 1.6.0
 
-## Setup
-
-- Coming soon!
-
 ## To Do List
 
 - Create UI
