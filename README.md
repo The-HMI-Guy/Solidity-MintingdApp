@@ -20,6 +20,7 @@ This project was built from the mentorship by Firebug509.
 - Ability for a user to connect wallet
 - Ability for a user to mint an NFT
 
+## Setup
 ## Technologies
 
 Project is created with:
