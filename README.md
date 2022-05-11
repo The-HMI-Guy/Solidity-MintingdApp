@@ -21,6 +21,10 @@ This project was built from the mentorship by Firebug509.
 - Ability for a user to mint an NFT
 
 ## Setup
+ - npm init
+ - npm install ganache-cli mocha@0.8.0 fs-extra web3
+ - npm install next react react-dom
+
 ## Technologies
 
 Project is created with:
