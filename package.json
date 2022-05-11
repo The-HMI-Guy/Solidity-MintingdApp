@@ -1,0 +1,25 @@
+{
+  "name": "mintingdapp",
+  "version": "1.0.0",
+  "description": "---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-HMI-Guy/Solidity-MintingdApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/The-HMI-Guy/Solidity-MintingdApp/issues"
+  },
+  "homepage": "https://github.com/The-HMI-Guy/Solidity-MintingdApp#readme",
+  "dependencies": {
+    "fs-extra": "^10.1.0",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^0.8.0",
+    "web3": "^1.7.3"
+  }
+}
